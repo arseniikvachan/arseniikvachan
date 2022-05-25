@@ -2,7 +2,7 @@
 <h3 align="center">Computaional linguistics and Informatics student with passion for programming</h3>
 
 <p align="center">
-![](https://media.giphy.com/media/QsRReqDtXhF0pWlGGB/giphy-downsized-large.gif)
+    ![](https://media.giphy.com/media/QsRReqDtXhF0pWlGGB/giphy-downsized-large.gif)
 </p>
 
 - Currently working on [EHOSS](https://ehoss.com/)
