@@ -1,6 +1,8 @@
 <h1 align="center">Arsenii Kvachan</h1>
 <h3 align="center">Computaional linguistics and Informatics student with passion for programming</h3>
 
+![](https://drive.google.com/file/d/1Pj9xD_B8Sk-7r-clgiSx8TAKFhVBp40g/view?usp=sharing)
+
 - Currently working on [EHOSS](https://ehoss.com/)
 
 - Currently learning **React.js, jQuery, Angular**
