@@ -1,5 +1,5 @@
-<h1 align="center">I am Arsenii Kvachan</h1>
-<h3 align="center">A computaional linguistics and Informatics student with passion for programming</h3>
+<h1 align="center">Arsenii Kvachan</h1>
+<h3 align="center">Computaional linguistics and Informatics student with passion for programming</h3>
 
 - Currently working on [EHOSS](https://ehoss.com/)
 
