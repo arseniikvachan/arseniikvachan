@@ -13,8 +13,6 @@
 
 - Profiled at [https://www.linkedin.com/in/arsenii-kvachan-0130921b2/](https://www.linkedin.com/in/arsenii-kvachan-0130921b2/)
 
-- Website [arsenii.kvachan.com](arsenii.kvachan.com)
-
 - Curious about **Natural Language Processing**
 
 - Reachable at **arsenii@kvachan.com**
