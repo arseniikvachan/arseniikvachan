@@ -7,7 +7,7 @@
 
 - Currently learning **PyTorch, Statistics, NLP**
 
-- Looking to collaborate on **OpenAI Projects**
+- Looking to collaborate on **AI Projects**
 
 - Curious about **Machine Learning and Data Science**
 
