@@ -5,15 +5,11 @@
 
 - Currently working on [EHOSS](https://ehoss.com/)
 
-- Currently learning **React.js, jQuery, Angular**
+- Currently learning **PyTorch, Statistics, NLP**
 
 - Looking to collaborate on **OpenAI Projects**
 
-- Looking for help with **Testing, tools development**
-
-- Profiled at [https://www.linkedin.com/in/arsenii-kvachan-0130921b2/](https://www.linkedin.com/in/arsenii-kvachan-0130921b2/)
-
-- Curious about **Natural Language Processing**
+- Curious about **Machine Learning and Data Science**
 
 - Reachable at **arsenii@kvachan.com**
 
